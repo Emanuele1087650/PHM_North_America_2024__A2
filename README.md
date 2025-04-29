@@ -45,7 +45,7 @@ Tutto il codice (preprocessing, regressione, PDF fitting, classificazione, anali
    - Scarica il dataset di **Training** dal sito [PHM2024](https://data.phmsociety.org/phm2024-conference-data-challenge/).  
    - Carica l’intera cartella `TrainingDataset` (con i CSV forniti) in Google Drive sotto:  
      ```
-     ~/MyDrive/MPDataset/TrainingDataset/
+     ~/MyDrive/PHM2024/Dataset/TrainingDataset/
      ```
 
 2. **Apri il notebook in Colab**  
@@ -54,7 +54,7 @@ Tutto il codice (preprocessing, regressione, PDF fitting, classificazione, anali
 
 3. **Esegui tutte le celle**  
    Colab installerà automaticamente le librerie necessarie e lancerà:
-   - Caricamento dati da `/content/drive/MyDrive/MPDataset/TrainingDataset/`
+   - Caricamento dati da `/content/drive/MyDrive/PHM2024/Dataset/TrainingDataset/`
    - Preprocessing & feature engineering
    - Regressione su `trq_target`
    - Calcolo del `trq_margin_pred`
@@ -64,7 +64,7 @@ Tutto il codice (preprocessing, regressione, PDF fitting, classificazione, anali
    - Salvataggio di modelli, grafici e report in Drive
 
 4. **Verifica gli output**  
-   Alla fine del run, in `drive/MyDrive/PHM2024/outputs/` troverai:
+   Alla fine del run, in `drive/MyDrive/PHM2024/Outputs/` troverai:
    - Modelli serializzati (`.pkl`)
    - Grafici (scatter plots, PDF fits, confusion matrix)
    - Report testuali e CSV con risultati e configurazioni

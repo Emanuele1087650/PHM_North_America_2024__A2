@@ -1,6 +1,6 @@
 # PHM_North_America_2024__A2
 
-Questo repository fornisce una soluzione completa per partecipare alla **PHM North America 2024 Conference Data Challenge**, con un workflow end-to-end implementato all’interno di un singolo notebook Google Colab.
+Questo repository fornisce una soluzione completa alla **PHM North America 2024 Conference Data Challenge**, con un workflow end-to-end implementato all’interno di un singolo notebook Google Colab.
 
 ---
 
@@ -68,6 +68,14 @@ Tutto il codice (preprocessing, regressione, PDF fitting, classificazione, anali
    - Modelli serializzati (`.pkl`)
    - Grafici (scatter plots, PDF fits, confusion matrix)
    - Report testuali e CSV con risultati e configurazioni
+  
+---
 
+## Contributors
 
+| Contributor Name      | GitHub                                  |
+|:----------------------|:----------------------------------------|
+| ⭐ **Biccheri Emanuele**  | [Click here](https://github.com/Emanuele1087650) |
+| ⭐ **Fares Emanuele**   | [Click here](https://github.com/AlessioGiacconi) |
+| ⭐ **Giacconi Alessio**   | [Click here](https://github.com/FaresEmanuele) |
 

@@ -6,7 +6,7 @@ Questo repository fornisce una soluzione completa alla **PHM North America 2024 
 
 ## 📖 Descrizione della Challenge
 
-La PHM North America 2024 Data Challenge è un anomaly detection su motori turboshaft da elicottero basata su dati operativi. L’obiettivo ufficiale di:
+La PHM North America 2024 Data Challenge è un anomaly detection su motori turboshaft da elicottero basata su dati operativi. L’obiettivo ufficiale è:
 
 1. **Calcolare il _Torque Margin_**  
    Per ogni punto operativo, il _Torque Margin_ è definito come

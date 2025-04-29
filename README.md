@@ -35,7 +35,7 @@ https://data.phmsociety.org/phm2024-conference-data-challenge/
 └── README.md # Questo file di istruzioni
 
 
-Tutto il codice (preprocessing, regressione, PDF fitting, classificazione, analisi dei risultati) è contenuto in **challenge.ipynb**.
+Tutto il codice (preprocessing, regressione, PDF fitting, classificazione, analisi dei risultati) è contenuto in **Challenge.ipynb**.
 
 ---
 
@@ -50,7 +50,7 @@ Tutto il codice (preprocessing, regressione, PDF fitting, classificazione, anali
 
 2. **Apri il notebook in Colab**  
    - Vai su [colab.research.google.com](https://colab.research.google.com)  
-   - Seleziona “File → Apri notebook” e carica `challenge.ipynb`.
+   - Seleziona “File → Apri notebook” e carica `Challenge.ipynb`.
 
 3. **Esegui tutte le celle**  
    Colab installerà automaticamente le librerie necessarie e lancerà:

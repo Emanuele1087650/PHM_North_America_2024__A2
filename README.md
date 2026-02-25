@@ -32,6 +32,8 @@ https://data.phmsociety.org/phm2024-conference-data-challenge/
 
 ├── challenge.ipynb # Notebook Colab con l’intera implementazione
 
+├── PHM_North_America_2024--A2.pdf # Relazione finale
+
 └── README.md # Questo file di istruzioni
 
 
